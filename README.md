@@ -1,6 +1,6 @@
 # DataStructures_Project2_Fall2019
 COP 3538: Project 2 -- Stacks and Priority Queues
- * @author Hailey Francis (n01402670)
+ * @author Hailey Francis (n01402670@unf.edu)
  * @version September 27, 2019
  
 Project2.java
